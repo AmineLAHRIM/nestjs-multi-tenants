@@ -33,9 +33,8 @@ $ npm install
 ```
 
 ## Create the database
+
 Create mysql database info at orm.config.ts
-
-
 
 ## Running the app
 
